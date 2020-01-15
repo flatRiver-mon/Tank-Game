@@ -1,7 +1,7 @@
 Tank Game
 ====================
 # 1. 설치 밎 실행
-브라우저를 열고 주소창에 http://kpk0416.dothome.co.kr/tank를 입력하고 접속하거나
+브라우저를 열고 주소창에 http://kpk0416.dothome.co.kr/tank 를 입력하고 접속하거나
 [링크](http://kpk0416.dothome.co.kr/tank)를 누르고 접속합니다.
 
 # 2. 게임 소개
